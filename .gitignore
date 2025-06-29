@@ -1,0 +1,13 @@
+node_modules/
+test-results/
+.env
+.DS_Store
+*.log
+dist/
+coverage/
+*.tsbuildinfo
+```# filepath: /Users/thodlaskaris/Desktop/sauceDemoPlayWright/.gitignore
+node_modules/
+test-results/
+.env
+.DS_Store

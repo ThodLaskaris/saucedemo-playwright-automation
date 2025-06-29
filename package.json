@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-playwright-automation-test",
+  "version": "0.0.1",
+  "description": "E2E flow automated tests using Playwright",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thodLaskaris",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1"
+  }
+}
