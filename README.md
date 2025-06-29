@@ -15,7 +15,8 @@ Automated end-to-end UI and API tests for the [SauceDemo](https://www.saucedemo.
 - **Page Object Model:** Clean and maintainable test code structure.
 - **Cross-browser Testing:** Easily run tests on Chromium, Firefox, and WebKit.
 - **Test Reporting:** Generates detailed test reports with Playwright.
-- **Extensible:** Ready to add more flows (cart, checkout, etc.).
+- **Full E2E Flows:** Covers complete user journeys, such as adding products to the cart, viewing the cart,completing the checkout process and more.
+- **Extensible:** Ready to add more flows and scenarios as needed.
 
 ### API Test Features
 
